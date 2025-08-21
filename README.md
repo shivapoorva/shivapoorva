@@ -1,10 +1,4 @@
-<div align="center"> 
- <div align="center"> 
- <img src="https://media.tenor.com/0FzYrwE2_64AAAAC/coding-girl.gif" alt="Coding Girl Gif" width="300"/>
-</div>  
- </div> 
- <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>  
+
 
 ---
 
