@@ -1,6 +1,5 @@
 <div align="center"> 
- <div class="tenor-gif-embed" data-postid="2332171326726785246" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%">
-  <div align="center"> 
+ <div align="center"> 
  <img src="https://media.tenor.com/0FzYrwE2_64AAAAC/coding-girl.gif" alt="Coding Girl Gif" width="300"/>
 </div>  
  </div> 
