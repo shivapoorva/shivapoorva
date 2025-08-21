@@ -6,13 +6,12 @@
 
 ### <h3 align="left">👩‍💻 About Me</h3>  
 
-<p align="left">  
-Hi, I'm <b>Poorva Shivaraman</b> 👋  
-- 🎓 Currently pursuing MCA at <b>SIES College of Management Studies</b>  
-- 💻 Interested in <b>Software Development</b>  
+Hi, I'm **Poorva Shivaraman** 👋  
+
+- 🎓 Currently pursuing MCA at **SIES College of Management Studies**  
+- 💻 Interested in **Software Development**  
 - 🌱 New to development & always curious to explore  
-- ⚡ I love learning <b>new technologies</b> and building cool stuff  
-</p>  
+- ⚡ I love learning **new technologies** and building cool stuff  
 
 ---
 
@@ -46,5 +45,5 @@ Hi, I'm <b>Poorva Shivaraman</b> 👋
 ### <h3 align="left">🔥 My Stats :</h3>  
 
 <div align="center">  
- <img src="https://streak-stats.demolab.com?user=poorvashivaraman&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />  
+ <img src="https://streak-stats.demolab.com?user=shivapoorva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />  
 </div>  
