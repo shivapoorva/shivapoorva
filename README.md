@@ -1,7 +1,8 @@
 <div align="center"> 
  <div class="tenor-gif-embed" data-postid="2332171326726785246" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%">
-   <a href="https://tenor.com/view/coding-girl-gif-2332171326726785246">Coding Girl Sticker</a> from 
-   <a href="https://tenor.com/search/coding+girl-stickers">Coding Girl Stickers</a>
+  <div align="center"> 
+ <img src="https://media.tenor.com/0FzYrwE2_64AAAAC/coding-girl.gif" alt="Coding Girl Gif" width="300"/>
+</div>  
  </div> 
  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>  
